@@ -8,7 +8,7 @@ header("Location: login.php");
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin Home</title>
+	<title>Admin DashBoard</title>
 		<link rel="stylesheet"
 	 type="text/css" href="css/bootstrap.css">
 </head>
