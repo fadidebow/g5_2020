@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Jobs</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
 	<style type="text/css">
